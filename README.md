@@ -21,7 +21,7 @@ Onde a imputação é, basicamente, mais uma camada de modelagem, onde tentamos 
 **4_O que é uma matriz de confusão e como ela é usada para avaliar o
 desempenho de um modelo preditivo?**
 
-A matriz de confusão nada mais é do que uma tabela onde vamos ter os valores em que podemos comparar a predição do modelo com o real resultado das classes. na tabela vamos ter:
+A matriz de confusão nada mais é do que uma tabela onde vamos ter os valores em que podemos comparar a predição do modelo com o real resultado das classes. Na tabela vamos ter:
  **Verdadeiros Positivos:** Quando o modelo prevê como positivo e realmente é positivo;
  **Falso Positivo:** Quando o modelo prevê errado como positivo;
  **Falso Negativo:** Quando o modelo prevê errado como negativo;
