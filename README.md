@@ -3,7 +3,7 @@ Primeira Atividade Bootcamp Atlântico
 
 **1_Explique, com suas palavras, o que é machine learning?**
 
-Machine Learning é um conjunto de algoritmos e modelos estatísticos para que um sistema/computador possa "aprender", com um conjunto de dados, a identificar certo padrões para, por exemplo, tomar decisões e fazer previsões.
+Machine Learning são algoritmos e modelos estatísticos para que um sistema/computador possa "aprender", com um conjunto de dados, a identificar certo padrões para, por exemplo, tomar decisões e fazer previsões.
 
 **2_Explique o conceito de conjunto de treinamento, conjunto de validação e
 conjunto de teste em machine learning.**
