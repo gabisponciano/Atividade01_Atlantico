@@ -22,15 +22,16 @@ Onde a imputação é, basicamente, mais uma camada de modelagem, onde tentamos 
 desempenho de um modelo preditivo?**
 
 A matriz de confusão nada mais é do que uma tabela onde vamos ter os valores em que podemos comparar a predição do modelo com o real resultado das classes. na tabela vamos ter:
- Verdadeiros Positivos: Quando o modelo prevê como positivo e realmente é positivo;
- Falso Positivo: Quando o modelo prevê errado como positivo;
- Falso Negativo: Quando o modelo prevê errado como negativo;
- Verdadeiro Negativo: Quando o modelo prevê corretamente como negativo.
+ **Verdadeiros Positivos:** Quando o modelo prevê como positivo e realmente é positivo;
+ **Falso Positivo:** Quando o modelo prevê errado como positivo;
+ **Falso Negativo:** Quando o modelo prevê errado como negativo;
+ **Verdadeiro Negativo:** Quando o modelo prevê corretamente como negativo.
  Com esses valores podemos obter as métricas de avaliação do modelo, como Acurácia, Precisão, Sensibilidade e F1-Score, que são obtidas com diferentes fórmulas.
  
 **5_Em quais áreas (tais como construção civil, agricultura, saúde, manufatura,
 entre outras) você acha mais interessante aplicar algoritmos de machine
 learning?**
+
 Uma das áreas que pode ser bastante interessante aplicar as técnicas de ML seria na agricultura, em que pode ser bastante proveitoso para N coisas, como na identificação e classificação de pragas em uma agricultura, na avaliação de frutos de uma plantação, ou até mesmo, na avaliação do solo.
 
 
